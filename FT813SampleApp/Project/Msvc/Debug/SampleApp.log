@@ -1,0 +1,32 @@
+﻿cl : Command line warning D9035: option 'V' has been deprecated and will be removed in a future release
+  SampleApp.c
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(984): warning C4101: 'pbuff': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(3849): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(3983): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(4570): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(4581): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5573): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5886): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5870): warning C4101: 'Bufflen': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5870): warning C4101: 'dlPTR': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5969): warning C4244: 'initializing': conversion from 'double' to 'uint16_t', possible loss of data
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5973): warning C4101: 'dloffset': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5973): warning C4101: 'totaldl': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(5965): warning C4101: 'j': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6070): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6052): warning C4101: 'cmdrd': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6052): warning C4101: 'currchunk': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6050): warning C4101: 'mediafifolen': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6049): warning C4101: 'stFifo': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6050): warning C4101: 'i': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6052): warning C4101: 'cmdwr': unreferenced local variable
+c:\visualprojects\ft813sampleapp\src\sampleapp.c(6050): warning C4101: 'mediafifo': unreferenced local variable
+  SampleApp.vcxproj -> C:\VisualProjects\FT813SampleApp\Project\Msvc\Debug\SampleApp_MSVC.exe
+          1 file(s) copied.
